@@ -1,4 +1,4 @@
-import shoppingList from './shopping-list.js';
+import shoppingList from './scripts/shopping-list.js';
 
 const main = function () {
   shoppingList.bindEventListeners();
